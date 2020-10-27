@@ -1,7 +1,7 @@
 # Fastfood paper
 In 2018, I had a phone call from Tomáš Bárta, who is the head of KRPA FORM, a company which focuses on paper production. He told me that they had managed to create a new paper. 
 
-This new paper they wanted to import into fast food companies. The paper is unique in that it is fully compostable and nongreasy. He asked me to create a new design for this type of product. We made an appointment with him in the office, where we met with five people - me and company representatives.
+This new paper they wanted to import into fast food companies. The paper is unique in that it is fully compostable and greaseproof. He asked me to create a new design for this type of product. We made an appointment with him in the office, where we met with five people - me and company representatives.
 
 We consulted design parameters together. The design had to capture the advantages of paper and highlight the origin of the product. Due to the production price, it only had to be black and white. And for printing reasons, it only had to contain 100 percent stroke coverage. We clarified and agreed on the next meeting, when I presented them my first sketches.
 
@@ -16,5 +16,3 @@ The design should be playful and clean. For a long time I struggled with the vec
 
 Currently this design is used in a large number of fast food restaurants in the Czech Republic. In the future, we plan to expand the supply to other countries like Slovakia, Poland or Germany, and I'll have to edit the design for these countries.
 
-
-https://raw.githubusercontent.com/ZdenekHoracek/02-intentional-aboutness/7e9227945f4fd2ebb436add623bb92d65fb1ce5f/BURGER%20MOCKUP.jpg
