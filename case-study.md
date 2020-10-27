@@ -16,4 +16,5 @@ The design should be playful and clean. For a long time I struggled with the vec
 
 Currently this design is used in a large number of fast food restaurants in the Czech Republic. In the future, we plan to expand the supply to other countries like Slovakia, Poland or Germany, and I'll have to edit the design for these countries.
 
-![BURGER MOCKUP.jpg](BURGER MOCKUP.jpg)
+
+https://raw.githubusercontent.com/ZdenekHoracek/02-intentional-aboutness/7e9227945f4fd2ebb436add623bb92d65fb1ce5f/BURGER%20MOCKUP.jpg
