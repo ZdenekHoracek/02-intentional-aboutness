@@ -5,7 +5,6 @@ This new paper they wanted to import into fast food companies. The paper is uniq
 
 We consulted design parameters together. The design had to capture the advantages of paper and highlight the origin of the product. Due to the production price, it only had to be black and white. And for printing reasons, it only had to contain 100 percent stroke coverage. We clarified and agreed on the next meeting, when I presented them my first sketches.
 
-
 I started exploring the websites. I was looking for inspiration in designs of packaging, but all things failed because of the colors. For a long time, I thought about how to highlight the benefits of paper with design. I solved this problem by designing vectors. I created five sketches, which I presented to the company's members at the next meeting. They consulted with each other and chose the direction in which we will continue.
 
 
