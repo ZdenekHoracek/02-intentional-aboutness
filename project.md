@@ -1,3 +1,4 @@
+# Fastfood paper
 In 2018, I had a phone call from Tomáš Bárta, who is the head of KRPA FORM, a company which focuses on paper production. He told me that they had managed to create a new paper. 
 
 This new paper they wanted to import into fast food companies. The paper is unique in that it is fully compostable and nongreasy. He asked me to create a new design for this type of product. We made an appointment with him in the office, where we met with five people - me and company representatives.
